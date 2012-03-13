@@ -28,6 +28,7 @@ public class Resort {
 		resortList.add(new Resort("University of Toronto", "University of Toronto", 43.6633, -79.3945));
 		resortList.add(new Resort("Ontario Place", "Ontario Place", 43.6281, -79.4138));
 		resortList.add(new Resort("University of Waterloo", "University of Waterloo", 43.4715, -80.5442));
+		resortList.add(new Resort("Old Trafford", "Old Trafford", 53.463167, -2.28956));
 		return resortList;
 	}
 	
